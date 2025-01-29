@@ -7,8 +7,7 @@ The goal is to predict if there will be a forest fire ML/DL techniques.
 #### Scope of Improvement:
 Currently working on imporving the model,to increase the accuracy of model.
 
-#### Application Link:
-App Link:  https://forest-valley-fire-prediction.herokuapp.com/
+
 
 #### Demo:
 <img src="screenrecording.gif">
